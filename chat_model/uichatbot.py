@@ -241,3 +241,5 @@ if st.session_state.chat_history:
 ]
         st.session_state.chat_history = []
         st.rerun()
+
+        
