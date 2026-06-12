@@ -18,3 +18,9 @@ pydantic
 tiktoken
 numpy
 pandas
+
+langgraph
+langsmith
+python-dotenv
+
+langchain_tavily
